@@ -1,0 +1,10 @@
+.avatar {
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+}
+.follower-name {
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+}
